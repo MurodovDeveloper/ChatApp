@@ -1,0 +1,12 @@
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net7.0\BlazorChatSignalR.Shared.deps.json
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net7.0\BlazorChatSignalR.Shared.dll
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net7.0\BlazorChatSignalR.Shared.pdb
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\BlazorChatSignalR.Shared.csproj.AssemblyReference.cache
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\BlazorChatSignalR.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\BlazorChatSignalR.Shared.AssemblyInfoInputs.cache
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\BlazorChatSignalR.Shared.AssemblyInfo.cs
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\BlazorChatSignalR.Shared.csproj.CoreCompileInputs.cache
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\BlazorChatSignalR.Shared.dll
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\refint\BlazorChatSignalR.Shared.dll
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\BlazorChatSignalR.Shared.pdb
+F:\Files\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net7.0\ref\BlazorChatSignalR.Shared.dll
